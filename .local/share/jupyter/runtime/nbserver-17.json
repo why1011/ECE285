@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/datasets/home/07/207/ee285sak",
+  "password": false,
+  "pid": 17,
+  "port": 8888,
+  "secure": false,
+  "token": "2459efd7c19a3d609802360103abdee5c4744a7ff0f38dff9fd133a3ec38f179",
+  "url": "http://0.0.0.0:8888/"
+}
